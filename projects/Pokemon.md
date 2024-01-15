@@ -15,3 +15,4 @@ has its own set of powers with the ability to generate new random pokemons."
 
 
 
+
