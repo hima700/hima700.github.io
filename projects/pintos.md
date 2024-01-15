@@ -14,7 +14,7 @@ summary: "Improving PintOS’ capabilities in three main areas: User Programs, T
 <div class="text-center p-4">
   <img width="300px" src="../img/pintos.png" class="img-thumbnail" >
 </div>
-
+<hr>
 The primary objective of this project was to enhance the functionality of the operating system by implementing key system calls. Pintos is an educational operating system developed for teaching purposes, and the project aimed to provide students with hands-on experience in understanding and extending the functionality of a real operating system.
 
 In this project, my specific role was to implement four crucial system calls: write, seek, close, and wait. These system calls are fundamental to the interaction between user programs and the operating system, allowing processes to perform operations like writing to files, changing file positions, closing files, and waiting for the termination of child processes. As the responsible contributor for these system calls, my work involved understanding the existing codebase, designing and implementing the specified functionality, and ensuring seamless integration with the overall Pintos OS structure.
