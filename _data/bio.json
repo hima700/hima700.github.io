@@ -16,12 +16,12 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Web Development" },
-    { "name": "Information Technology" }
+    { "name": "UI/UX Design" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Matlab", "Lisp SQL", "Perl", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Matlab", "SQL", "Perl", "Python" ]
     },
     {
       "name": "Toolsets/OS",
