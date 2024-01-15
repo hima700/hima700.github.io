@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/pharmacy.png
-title: "E_pharmacy"
+title: "E-pharmacy"
 date: 2024
 published: true
 labels:
