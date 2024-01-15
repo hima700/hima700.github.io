@@ -16,6 +16,7 @@ have multiple customers, each with a separate account and carts."
 <div class="text-center p-4">
   <img width="300px" src="../img/pharmacy.png" class="img-thumbnail" >
 </div>
+<hr>
 
 The project is centered around the development of an E-pharmacy, aiming to create an efficient and user-friendly online platform for pharmaceutical services. As a team member, my primary responsibility revolved around the technical aspects, specifically in managing the project's infrastructure and deployment process.
 
