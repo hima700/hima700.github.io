@@ -17,4 +17,4 @@ In this project, my specific role was to implement four crucial system calls: wr
 
 Through this experience, I gained valuable insights into the intricate workings of operating systems. I deepened my understanding of concepts such as system calls, file operations, and process management. The project also provided an opportunity to delve into the internals of Pintos OS, honing my skills in debugging, memory management, and system-level programming. Additionally, the project significantly contributed to the enhancement of my teamwork skills. Collaborating with peers in a shared codebase environment required effective communication and coordination. As we worked together to integrate various components and ensure the seamless functioning of the system calls, I learned the importance of clear communication, task delegation, and collective problem-solving.
 
-Link: https://github.com/Pintos-Project-EE486/Pintos-Project
+Link: [Link text](https://github.com/Pintos-Project-EE486/Pintos-Project)
