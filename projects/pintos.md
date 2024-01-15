@@ -8,7 +8,7 @@ published: true
 labels:
   - Linux
   - C
-summary: "This project includes improving PintOS’ capabilities in three main areas: User Programs, Threads, and Virtual Memory."
+summary: "Improving PintOS’ capabilities in three main areas: User Programs, Threads, and Virtual Memory."
 ---
 
 The primary objective of this project was to enhance the functionality of the operating system by implementing key system calls. Pintos is an educational operating system developed for teaching purposes, and the project aimed to provide students with hands-on experience in understanding and extending the functionality of a real operating system.
