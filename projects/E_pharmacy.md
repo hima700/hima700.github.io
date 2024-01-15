@@ -21,4 +21,4 @@ The deployment of the application was done using Heroku, a cloud platform that s
 
 Through this experience, I gained practical insights into the intricacies of creating Docker images, effectively managing a GitHub repository with multiple contributors, and deploying applications using Heroku. The project not only enhanced my technical skills but also provided valuable lessons in collaborative software development, version control, and troubleshooting in a real-world context. Overall, it was a comprehensive learning experience that bridged theoretical knowledge with hands-on application in the realm of software development.
 
-Link: https://github.com/hima700/E_pharmacy
+[Project's GitHub Repository](https://github.com/hima700/E_pharmacy)
