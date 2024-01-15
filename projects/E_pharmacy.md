@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ./Users/Mariam/Desktop/pharmacy.png
+image: img/pharmacy.png
 title: "E_pharmacy"
 date: 2024
 published: true
