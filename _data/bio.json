@@ -35,7 +35,11 @@
       "studyType": "B.S.",
       "startDate": "2019-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Programming for Engineers","Basic Circuit Analysis I/II"," Data Structures & Algorithms","Object-Oriented Programming", "Discrete Math for Engineers
+    Object-Oriented Software Engineering
+    Operating Systems
+    Database Systems
+",
       ]
     }
   ],
