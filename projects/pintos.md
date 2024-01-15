@@ -1,14 +1,12 @@
 ---
 layout: project
 type: project
-image: img/pharmacy.png
-title: "E_pharmacy"
+image: img/pintos.png
+title: "Pintos"
 date: 2024
 published: true
 labels:
-  - Python
-  - Docker
-  - Django
-summary: "Implementation of a fully functional electronic pharmacy system with the ability to
-have multiple customers, each with a separate account and carts."
+  - Linux
+  - C
+summary: "This project includes improving PintOS’ capabilities in three main areas: User Programs, Threads, and Virtual Memory."
 ---
