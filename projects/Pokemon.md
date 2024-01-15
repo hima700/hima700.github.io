@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: img/pokemon.jpg
-title: "Pokemon"
-date: 2019
+image: img/pharmacy.png
+title: "E_pharmacy"
+date: 2024
 published: true
 labels:
-  - Java
-  - UML
-  - Design Patterns
-summary: "Implementation of a pockemon game in which multiple pokemons are defined and each
-has its own set of powers with the ability to generate new random pokemons."
+  - Python
+  - Docker
+  - Django
+summary: "Implementation of a fully functional electronic pharmacy system with the ability to
+have multiple customers, each with a separate account and carts."
 ---
 
 
