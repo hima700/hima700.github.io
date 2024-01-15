@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/pharmacy.png
 title: "E-pharmacy"
-date: 2024
+date: 2022
 published: true
 labels:
   - Python
