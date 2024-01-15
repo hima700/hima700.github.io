@@ -35,11 +35,7 @@
       "studyType": "B.S.",
       "startDate": "2019-09-01",
       "endDate": "Present",
-      "courses": [ "Programming for Engineers","Basic Circuit Analysis I/II"," Data Structures & Algorithms","Object-Oriented Programming", "Discrete Math for Engineers
-    Object-Oriented Software Engineering
-    Operating Systems
-    Database Systems
-",
+      "courses": [ "Programming for Engineers","Basic Circuit Analysis I/II"," Data Structures & Algorithms","Object-Oriented Programming", "Discrete Math for Engineers","Object-Oriented Software Engineering","Operating Systems","Database Systems"
       ]
     }
   ],
@@ -53,7 +49,7 @@
       "summary": "",
       "highlights": [
         "Increased monthly sales 134% by recommending  seasonal buy one get one sales,and rebates.",
-        "Trained team members in successful strategies to meet operational and sales targets.",
+        "Trained team members in successful strategies to meet operational and sales targets."
       ]
     },
     {
