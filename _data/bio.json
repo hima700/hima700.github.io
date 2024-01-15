@@ -43,19 +43,19 @@
     {
       "company": "T-Mobile",
       "position": "Mobile Expert",
-      "website": "",
+      "website": "https://www.t-mobile.com/",
       "startDate": "2020-12-02",
       "endDate": "Present",
-      "summary": "Connect client to different solutions ",
+      "summary": "",
       "highlights": [
-        "Increased monthly sales 134% by recommending  seasonal buy one get one sales,and rebates",
-        "Trained team members in successful strategies to meet operational and sales targets",
+        "Increased monthly sales 134% by recommending  seasonal buy one get one sales,and rebates.",
+        "Trained team members in successful strategies to meet operational and sales targets.",
       ]
     },
     {
       "company": "Hard Rock Cafe",
       "position": "Kitchen Supervisor",
-      "website": "http://www.hawaii.edu/its/",
+      "website": "https://www.hardrock.com/",
       "startDate": "2020-02-02",
       "endDate": "2017-06-15",
       "summary": "",
@@ -69,14 +69,14 @@
   "awards": [
     {
       "title": "Dean's List",
-      "date": "2023, Spring",
-      "awarder": "University of Hawaii",
+      "date": "Spring, 2023",
+      "awarder": "University of Hawaii - College of Engineering",
       "summary": "Awarded to undergraduate students who ended the Spring 2023 semester with a GPA of at least 3.5."
     },
     {
      "title": "Dean's List",
-      "date": "2022, Fall",
-      "awarder": "University of Hawaii",
+      "date": "Fall, 2022",
+      "awarder": "University of Hawaii -  College of Engineering",
       "summary": "Awarded to undergraduate students who ended the Fall 2022 semester with a GPA of at least 3.5."
     }
   ],
