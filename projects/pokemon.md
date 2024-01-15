@@ -11,7 +11,6 @@ labels:
   - Design Patterns
 summary: "Implementation of a pockemon game in which multiple pokemons are defined and each has its own set of powers with the ability to generate new random pokemons."
 ---
-<hr>
 <div class="text-center p-4">
   <img width="300px" src="../img/pokemon.jpg" class="img-thumbnail" >
 </div>
