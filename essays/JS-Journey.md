@@ -12,7 +12,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/JS-Picture.png">
 
-## "JavaScript: My Journey Through the Language of the Web" 
+## My Journey Through the Language of the Web
 
 
 
