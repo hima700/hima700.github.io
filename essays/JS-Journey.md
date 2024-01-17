@@ -44,5 +44,5 @@ In conclusion, JavaScript, in my opinion, is more than just a programming langua
 
 <hr>
 
-###### PS: ChatGPT helped in creating chatchy titles ard with grammar, vocabulary and punctuation.
+###### PS: ChatGPT helped in creating chatchy titles and with grammar, vocabulary and punctuation.
 
