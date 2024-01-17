@@ -7,6 +7,7 @@ date: 2024-01-16
 published: true
 labels:
   - Engineering
+  - JavaScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/JS-Picture.png">
