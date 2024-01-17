@@ -3,10 +3,11 @@ layout: essay
 type: essay
 title: "Code, Creativity, and the Quest for Digital Mastery"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-16
+date: 2024-01-14
 published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - Web Develpoment
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/ExploringWeb.png">
