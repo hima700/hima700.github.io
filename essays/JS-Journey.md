@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript: My Journey Through the Language of the Web"
+title: "Java-Scripted Journeys: Navigating the Seas of Code"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-16
 published: true
@@ -12,7 +12,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/JS-Picture.png">
 
-# "JavaScript: My Journey Through the Language of the Web" 
+## "JavaScript: My Journey Through the Language of the Web" 
 
 
 
