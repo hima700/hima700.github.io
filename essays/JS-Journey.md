@@ -12,7 +12,9 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/JS-Picture.png">
 
-### "JavaScript: My Journey Through the Language of the Web"
+<h1 style="text-align: center;" markdown="1">"JavaScript: My Journey Through the Language of the Web"</h1> 
+
+
 
 As someone who's dabbled in various programming languages, from the structured precision of C to the versatility of Python, I've found JavaScript to be a unique and fascinating language. It's a language that, for a long time, I viewed with a mix of curiosity and skepticism. However, my recent experiences, particularly in the realm of athletic software engineering and the Workout of the Day (WOD) approach, have profoundly shifted my perspective.
 
