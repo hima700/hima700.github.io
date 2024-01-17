@@ -4,7 +4,7 @@ type: essay
 title: "JavaScript: My Journey Through the Language of the Web"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-16
-published: true
+published: false
 labels:
   - Engineering
 ---
