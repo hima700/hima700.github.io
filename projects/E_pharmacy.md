@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pharmacy.png
+image: img/pharmacy5.png
 title: "E-pharmacy"
 date: 2022
 published: true
@@ -14,7 +14,7 @@ have multiple customers, each with a separate account and carts."
 ---
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/pharmacy.png" class="img-thumbnail" >
+  <img width="300px" src="../img/pharmacy5.png" class="img-thumbnail" >
 </div>
 <hr>
 
