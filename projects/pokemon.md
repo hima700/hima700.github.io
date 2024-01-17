@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pokemon2.jpg
+image: img/pokemon3.jpg
 title: "Pokemon"
 date: 2019
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "Implementation of a pockemon game in which multiple pokemons are defined and each has its own set of powers with the ability to generate new random pokemons."
 ---
 <div class="text-center p-4">
-  <img width="300px" src="../img/pokemon2.jpg" class="img-thumbnail" >
+  <img width="300px" src="../img/pokemon3.jpg" class="img-thumbnail" >
 </div>
 <hr>
 
