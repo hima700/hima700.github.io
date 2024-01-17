@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pokemo4.png
+image: img/pokemon4.png
 title: "Pokemon"
 date: 2019
 published: true
