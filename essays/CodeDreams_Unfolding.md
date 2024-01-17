@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/JS-Picture.png">
 
-### Embracing the Digital Age: My Passion for Software Engineering
+## Embracing the Digital Age: My Passion for Software Engineering
 
 The world of software engineering is a dynamic and endlessly fascinating field, one that resonates deeply with my personal and professional interests. My journey into this realm began as a hobby; tinkering with code and being mesmerized by the magic of turning algorithms into applications. This hobby quickly evolved into a passion, driven by the sheer potential of software development in shaping our digital future. From building small desktop applications to diving into web development, each project I embarked on fueled my curiosity and deepened my appreciation for the intricate world of software engineering.
 
