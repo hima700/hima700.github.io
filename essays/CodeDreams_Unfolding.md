@@ -30,4 +30,4 @@ In summary, my journey in software engineering is guided by a deep-seated passio
 
 <hr>
 
-###### PS: ChatGPT helped in creating chatchy titles ard with grammar, vocabulary and punctuation.
+###### PS: ChatGPT helped in creating chatchy titles and with grammar, vocabulary and punctuation.
