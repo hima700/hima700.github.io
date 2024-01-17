@@ -9,7 +9,7 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/JS-Picture.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/ExploringWeb.png">
 
 ## Embracing the Digital Age: My Passion for Software Engineering
 
