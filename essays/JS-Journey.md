@@ -12,7 +12,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/JS-Picture.png">
 
-<h1 style="text-align: center;" markdown="1">"JavaScript: My Journey Through the Language of the Web"</h1> 
+# "JavaScript: My Journey Through the Language of the Web" 
 
 
 
