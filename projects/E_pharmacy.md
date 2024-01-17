@@ -11,7 +11,7 @@ labels:
   - Django
 summary: "Implementation of a fully functional electronic pharmacy system with the ability to
 have multiple customers, each with a separate account and carts."
-projecturl: https://github.com/hima700/E_pharmacy)
+projecturl: https://github.com/hima700/E_pharmacy
 ---
 
 <div class="text-center p-4">
