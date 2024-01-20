@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/pokemon5.png
-title: "Pockemon"
+title: "Pokémon"
 date: 2019
 published: true
 labels:
