@@ -10,6 +10,7 @@ labels:
   - Questions
   - Answers
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/smart3.jpg">
 
 
 ## The Quest for Clarity in Code Conversations
