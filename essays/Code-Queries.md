@@ -8,7 +8,7 @@ published: false
 labels:
   - Software Engineering
   - Questions
-  - Answerrs
+  - Answers
 ---
 
 
@@ -30,7 +30,7 @@ This exercise has been an eye-opener. It reinforces that in the technical world,
 ## In Conclusion: Cultivating a Community of Curiosity
 Navigating through software engineering's complexities requires more than just technical skills; it demands a knack for asking the right questions. It's not just about finding answers; it's about building a culture of curiosity and collaboration. Dive into the world of StackOverflow and see these principles in action, from the thoughtfully crafted to the hastily asked, and everything in between.
 
-Explore the [Smart Question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) on StackOverflow and analyze the [not-so-smart query](https://stackoverflow.com/questions/26655534/what-is-catcomplete-in-jquerys-autocomplete-plugin) to understand these dynamics better.
+Explore the [smart question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) on StackOverflow and analyze the [not-so-smart question](https://stackoverflow.com/questions/26655534/what-is-catcomplete-in-jquerys-autocomplete-plugin) to understand these dynamics better.
 
 <hr>
 
