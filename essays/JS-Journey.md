@@ -14,7 +14,8 @@ labels:
 
 ## My Journey Through the Language of the Web
 
-
+  git config --global user.email "Imatar77@hawaii.edu"
+  git config --global user.name "Ibrahim Matar"
 
 As someone who's dabbled in various programming languages, from the structured precision of C to the versatility of Python, I've found JavaScript to be a unique and fascinating language. It's a language that, for a long time, I viewed with a mix of curiosity and skepticism. However, my recent experiences, particularly in the realm of athletic software engineering and the Workout of the Day (WOD) approach, have profoundly shifted my perspective.
 
