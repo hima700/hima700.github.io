@@ -4,14 +4,14 @@ type: essay
 title: "Green-Linting"
 # All dates must be YYYY-MM-DD format!
 date: 2024-03-02
-published: false
+published: true
 labels:
   - Intellij
   - ESLint
   - JavaScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/JS-Picture.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/ESLint.png">
 
 ## Initial Setup: Easier Than Expected
 
