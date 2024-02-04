@@ -24,7 +24,7 @@ The real transformation began when ESLint became a part of my daily coding routi
 
 ## A Lesson in Constancy: Discovering Immutability
 
-One of the standout moments in this journey came from a simple ESLint rule: prefer const over let for unchanging variables. This rule, at first glance trivial, proved to be a masterclass in the value of immutability. It was an "aha" moment, where a piece of advice transformed into a deep understanding of how disciplined coding can lead to more stable and secure applications.
+One of the standout moments in this journey came from a simple ESLint rule: prefer `const` over `let` for unchanging variables. This rule, at first glance trivial, proved to be a masterclass in the value of immutability. It was an "aha" moment, where a piece of advice transformed into a deep understanding of how disciplined coding can lead to more stable and secure applications.
 
 ## Coding Standards: Constraints or Catalysts?
 
