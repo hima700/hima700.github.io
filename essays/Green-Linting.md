@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Green-Linting"
 # All dates must be YYYY-MM-DD format!
-date: 2024-03-02
+date: 2024-02-03
 published: true
 labels:
   - Intellij
