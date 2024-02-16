@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -12,7 +11,7 @@ labels:
   - Web Develpoment
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ExploringWeb.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap.png">
 
 ## The Conundrum of Complexity
 
