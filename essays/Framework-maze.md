@@ -4,7 +4,7 @@ type: essay
 title: "Navigating the UI Framework Maze: A Developer's Quest for Elegance"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-16
-published: true
+published: false
 labels:
   - UI/UX Design
   - BootStrap 5
