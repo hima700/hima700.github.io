@@ -6,7 +6,7 @@ title: "Navigating the UI Framework Maze: A Developer's Quest for Elegance"
 date: 2024-02-16
 published: true
 labels:
-  - UI/UX
+  - UI/UX Design
   - BootStrap 5
   - Web Develpoment
 ---
