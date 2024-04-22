@@ -29,7 +29,7 @@ Behavioral patterns are like the finer details that bring life to a painting, di
 
 ## Applying Art to Code
 Throughout my career, I have skillfully utilized design patterns to craft not only efficient but also beautifully structured solutions. For instance, while spearheading the development of a complex Pokémon game, I leveraged the Strategy pattern to manage the diverse behaviors associated with each Pokémon character. This pattern enabled us to encapsulate each Pokémon's unique set of powers within separate classes, allowing for the dynamic creation of new Pokémon with unique abilities. This approach provided the flexibility needed to adapt the game’s mechanics over time, akin to a painter choosing different brushes to bring a scene to life.
-<br>
+
 Another significant application was during the creation of an e-pharmacy platform, where I implemented the Factory Method pattern. This design choice facilitated the creation of different user profiles and shopping carts dynamically, based on customer interactions. Much like a painter selects specific brushes for various textures, this pattern helped maintain a clean and scalable architecture, allowing the platform to evolve with minimal disruption to the underlying codebase. This not only streamlined development but also enhanced the maintainability of the system, ensuring that new features could be integrated with ease.
 
 ## Conclusion
