@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Design Patterns
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/smart3.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/artofcoding.jpg">
 
 
 ## Introduction
