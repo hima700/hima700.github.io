@@ -25,4 +25,4 @@ On the backend, I integrated MongoDB to manage our data needs, setting up schema
 
 This project not only honed my technical skills in full-stack development but also enhanced my ability to collaborate effectively within a team and manage multiple aspects of a software project, from initial development to deployment and maintenance.
 
-[Project's GitHub Repository](https://github.com/FoodieFinders/FoodieFinders.github.io)
+[Project's GitHub Repository](https://github.com/FoodieFinders)
