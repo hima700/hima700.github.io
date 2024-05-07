@@ -12,49 +12,67 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/AI.jpg">
 
 
-## Introduction
-Artificial Intelligence (AI) has become an integral component of modern education, revolutionizing how we approach learning and problem-solving. In the field of Software Engineering, the integration of AI tools and methodologies holds particular significance, offering unique insights and assistance in comprehending complex concepts and applying them in practical scenarios. Throughout my journey in ICS 314, I have encountered various AI tools such as ChatGPT, Bard, and Co-Pilot, each contributing to my understanding of software engineering principles in distinct ways.
+### I. Introduction
+
+Artificial Intelligence (AI) has left its mark on various industries, education being a notable one. In software engineering, AI tools like ChatGPT, Bard, and Co-Pilot, though used sparingly in my coursework, provided an enhanced learning experience. This essay delves into how these tools occasionally influenced my understanding and application of software engineering principles during my course ICS 314 at the University of Hawaii.
+
+### II. Personal Experience with AI
+
+My engagement with AI tools in ICS 314 was selective yet impactful, helping clarify and expedite certain aspects of the course:
+
+II. Personal Experience with AI
+Throughout my course, ICS 314, my use of AI was selective and purposeful, applied strategically to enhance learning and understanding in specific areas:
+1.	**Experience WODs (e.g., E18):** For WODs such as E18, I occasionally utilized ChatGPT to quickly generate basic code structures. This helped me get a running start on the problem, after which I personally refined and debugged the code to meet the specific requirements of the exercise.
+2.	**In-class Practice WODs:** During practice sessions, I used AI sparingly for immediate suggestions and code examples when faced with complex problems. This assistance helped clarify advanced concepts but was always supplemented with personal research and understanding.
+3.	**In-class WODs:** AI tools were used to provide supplementary information and explanations, especially when tackling new and complex topics. This helped in understanding the underlying principles before applying them in practical tasks.
+4.	**Essays:** I used AI tools like Bard to help draft the structure of essays and provide suggestions on content organization. The real work of researching, writing, and ensuring the relevance and depth of content was performed manually.
+5.	**Final project:** AI contributed by offering code optimization suggestions and debugging tips for my final project. This included minor syntax corrections and performance enhancements, which were critical during the project's development phase.
+6.	**Learning a concept/tutorial:** AI tools provided additional explanations and examples when I encountered difficult concepts. This was particularly useful for reinforcing learning through varied explanations and viewpoints.
+7.	**Answering a question in class or in Discord:** When quick information retrieval was necessary during discussions, AI tools helped provide accurate technical information, which I then verified through additional sources.
+8.	**Asking or answering a smart-question:** In complex discussions, both in class and online, I used AI to help formulate well-structured questions and to provide detailed answers, which were often double-checked for accuracy.
+9.	**Code examples and explanations:** During the development of a restaurant management system, I used AI to understand and implement certain functionalities. For instance, formatting business hours from data fetched dynamically required a nuanced understanding of JavaScript and libraries like `moment.js`:
+   ```javascript
+   const formatHours = (hours) => {
+     return hours.map(hour => {
+       const [start, end] = hour.split('-').map(time => moment(time, 'HH:mm').format('hh:mm A'));
+       return `${start} - ${end}`;
+     }).join(' - ');
+   };
+   ```
+   This code snippet, enhanced by AI, illustrates the use of functional programming to handle time data effectively.
+
+10.	**Explaining code:** AI was useful for explaining the functionality of complex code segments. For instance, it helped clarify the use of React and Meteor methodologies in web development projects, enhancing my understanding and ability to work with these frameworks.
+11.	**Writing code:** AI suggestions were incorporated to start off writing scripts or functions, particularly when I was stuck on how to begin. This was followed by thorough personal revisions to ensure the code met all project requirements.
+12.	**Documenting code:** I used AI to generate initial documentation comments, which I then expanded upon to ensure clarity and comprehensiveness for future reference or for other developers' use.
+13.	**Quality assurance:** AI tools provided initial diagnostics for common errors and code smells, which I used as a starting point for deeper manual reviews and refinements.
+14.	**Other uses in ICS 314 not listed above:** In some cases, AI was used to simulate user interactions and test user interface designs, providing quick feedback on usability and functionality that helped refine UI elements before actual user testing.
 
 
-## Personal Experience with AI
-In the realm of Experience WODs, I frequently turned to ChatGPT for generating code snippets based on provided instructions. While AI jumpstarted the problem-solving process, refining the generated code to meet specific requirements often involved significant trial and error. Despite its limitations, ChatGPT served as a valuable resource for initiating the coding process efficiently.
 
-During in-class Practice WODs, I occasionally utilized AI assistance for quick references and clarifications on certain concepts. However, I found that direct engagement with peers and instructors was more beneficial in deepening my understanding of the material.
+### III. Impact on Learning and Understanding
 
-In-class WODs presented similar opportunities for leveraging AI, albeit with a greater emphasis on understanding underlying concepts. While AI tools provided valuable insights and suggestions, I found that combining AI assistance with personal exploration and critical thinking yielded the most comprehensive understanding.
+The selective use of AI tools in my software engineering education allowed me to appreciate their potential to simplify complex problems without becoming overly dependent on them. This approach helped reinforce my understanding of the fundamentals while benefiting from AI's capability to handle repetitive or standardized tasks efficiently.
 
-When it came to crafting essays, AI tools such as Bard and Co-Pilot offered assistance in generating content and refining ideas. However, ensuring coherence and relevance in the final output required careful manual intervention, highlighting the limitations of AI in contextual comprehension and creative expression.
+### IV. Practical Applications
 
-For the final project, AI played a complementary role in optimizing performance and enhancing functionality during the implementation phase. While initial project planning and design necessitated a hands-on approach, AI-based code suggestions proved invaluable in refining the solution and overcoming implementation challenges.
+My practical application of AI extended to real-world software engineering tasks during the NSA Codebreakers challenge. In this context, AI tools were instrumental in analyzing cybersecurity threats and automating the assessment of potential vulnerabilities, thus enhancing our team's ability to address complex security challenges effectively.
 
-Throughout the learning process, AI tools supplemented tutorials and learning materials by providing additional explanations and examples. While beneficial, the reliance on AI for concept comprehension demanded critical evaluation to ensure accuracy and relevance in application.
+### V. Challenges and Opportunities
 
-In both classroom discussions and online forums like Discord, AI served as a valuable resource for retrieving information and offering insights into complex topics. However, discerning the applicability and accuracy of AI-generated responses remained crucial in fostering meaningful discussions and contributions.
+The moderate use of AI in my coursework highlighted several challenges, such as ensuring the accuracy of AI-generated solutions and the risk of dependency. However, these challenges also present opportunities to integrate AI more thoughtfully into software engineering education, promoting a balanced approach that leverages AI's strengths while fostering deep, conceptual learning.
 
+### VI. Comparative Analysis
 
-## Impact on Learning and Understanding
-The incorporation of AI has significantly influenced my learning experience in ICS 314, offering new perspectives and avenues for exploration. AI tools have facilitated comprehension, skill development, and problem-solving abilities, albeit with varying degrees of effectiveness. While AI has enhanced efficiency and provided valuable assistance in certain tasks, it has also posed challenges in contextual understanding and creative expression, underscoring the importance of critical thinking and human judgment in software engineering education.
+Comparing traditional teaching methods with AI-enhanced learning, I found that traditional methods foster a deep, fundamental understanding through hands-on practice, whereas AI excels in providing quick solutions and insights. The most effective learning strategy, especially in a technical field like software engineering, likely involves a blend of both approaches.
 
+### VII. Future Considerations
 
-## Practical Applications
-Outside of the classroom, AI applications in software engineering extend to real-world projects, simulations, and collaborative activities such as the HACC. While AI has demonstrated effectiveness in addressing certain challenges, its full potential in software engineering education is yet to be realized. As technology advances and AI algorithms become more sophisticated, opportunities for practical applications in education are likely to expand, offering new possibilities for enhancing learning outcomes and preparing students for the demands of the industry.
+As AI continues to evolve, its integration into educational settings is expected to become more refined, offering more robust tools that enhance learning outcomes without overshadowing the need for critical thinking and fundamental skills.
 
+### VIII. Conclusion
 
-## Challenges and Opportunities
-Despite its benefits, the integration of AI in software engineering education presents various challenges and limitations. These include issues related to contextual comprehension, algorithmic bias, and overreliance on automated solutions. However, there are also opportunities for further integration and refinement of AI technologies to address these challenges effectively. By incorporating AI responsibly and fostering a balance between automated assistance and human judgment, software engineering education can harness the full potential of AI to enhance learning outcomes and prepare students for future challenges.
+In conclusion, while my use of AI in ICS 314 was limited, it was undoubtedly transformative, offering insights and efficiencies that enhanced my educational experience. Moving forward, the thoughtful integration of AI into software engineering education will be crucial in developing skilled professionals capable of navigating an increasingly complex technological landscape.
 
-
-## Comparative Analysis
-A comparative analysis between traditional teaching methods and AI-enhanced approaches reveals both strengths and limitations. While traditional methods emphasize direct interaction and hands-on experience, AI-enhanced approaches offer scalability, efficiency, and personalized assistance. However, the effectiveness of AI in promoting engagement, knowledge retention, and practical skill development depends on various factors, including the nature of the task, the quality of the AI tool, and the pedagogical context.
-
-
-
-## Future Considerations
-Looking ahead, the future role of AI in software engineering education holds promise and potential. As AI technologies continue to evolve, there are opportunities for further integration and refinement to address existing challenges and enhance learning outcomes. However, careful consideration must be given to ethical, social, and pedagogical implications to ensure responsible and effective use of AI in education.
-
-
-## Conclusion
-In conclusion, the integration of AI in software engineering education has profoundly influenced my learning experience in ICS 314, offering new perspectives, insights, and opportunities for exploration. While AI tools have enhanced efficiency and provided valuable assistance in certain tasks, they have also posed challenges in contextual understanding and creative expression. Moving forward, responsible integration and refinement of AI technologies hold the key to unlocking their full potential in software engineering education, empowering students to thrive in an ever-evolving technological landscape.
 
 <hr>
 
